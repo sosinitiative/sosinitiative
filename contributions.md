@@ -18,10 +18,8 @@ We contributed to the following projects and documentation.
 - [project1]()
 
 ## Sponsorships
-We support the following projects, maintainers and events by sponsoring them with funds, resources or free services.
-
+We support the following projects, maintainers and events by sponsoring them with funds, resources or free services. 
 - [project1]()
-
 - [maintainer1]()
-
 - [event1]()
+

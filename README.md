@@ -7,9 +7,9 @@ This initiative has been created to help you setup a guideline within your compa
 
 ## What is the process?
 
-1. Fork this repo under your own github organization
-1. Complete the [commitment](commitment.md)
+1. Read and agree to the [commitment](commitment.md)
+1. Fork this repo under your own github organization to commit
 1. Make a start with your [contributions](contributions.md) page
 1. Inform and educate your developers, point them to the [developer-guidelines](developer-guidelines.md)
-1. Share your intentions with the world!
-1. Update your your [contributions](contributions.md) page when you made a new accomplishment
+1. Share your intentions with the world! ```#ossinitiative```
+1. Update your your [contributions](contributions.md) page every time you make a new accomplishment

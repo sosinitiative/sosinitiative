@@ -1,7 +1,10 @@
 # Sustainable Open Source
-Your software depends on a log of code that is written by people that do not work for you. Research hints that more that 70% of the code you run is not your own. A lot of this code is written by passionate individuals, your company is depending on them and they are probably not on your pay-role and you probably are not even thanking them.
+Your software depends on a lot of code that is written by people that do not work for you. Research hints that more that 70% of the code you run is not your own. A lot of this code is written by passionate individuals, companies are depending on them while they are mostly not being payed for their work.
 
-## [company]
+### What is this about?
+This initiative has been created to help companies guideline to pay back to the community and improve the culture around open source.
+
+# We are [company] and we ♥️ Open Source
 
 ## What is our business?
 
@@ -11,13 +14,17 @@ Your software depends on a log of code that is written by people that do not wor
 
 [your contact information]
 
-> You can find our commitment [here]() and [these]() are our contributions.
+
+## Our commitment and contributions
+ 
+You can find our commitment [here](commitment.md) and [these](contributions.md) are our contributions.
+
 
 ---
+
 ## Also want to join the initiative?
 
-### What is this about?
-This initiative has been created to help you setup a guideline within your company to pay back to the community, as an effect your company will grow in knowledge and your culture will improve. 
+Do you also want to improve the way your company and people think about and use open source?
 
 ### What is the process?
 

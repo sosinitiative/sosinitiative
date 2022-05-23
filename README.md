@@ -10,7 +10,7 @@ We **cannot** only be consumers and expect premium support from passionate indiv
 We will stimulate all efforts creating a healthy culture towards the use and contribution of OSS by:
 
 - Having our developers adhere to the SOS Developer Guidelines.
-- Sharing our own learnings with the world. Though talks, blogs, videos and educational content.
+- Sharing our own learnings with the world. Through talks, blogs, videos and educational content.
 - Sharing our code that could help others as open source where possible, considering intellectual property of our core business and security.
 - Not forcing our agendas to a project.
 - Letting our developers contribute code and documentation to relevant projects during working hours.
@@ -42,7 +42,7 @@ Do you also want to improve the way your company and people think about and use 
 
 ### What is the process?
 
-1. Fork [https://github.com/sosinitiative/sosinitiative](https://github.com/sosinitiative/sosinitiative) under your own github organization to commit
+1. Fork [https://github.com/sosinitiative/sosinitiative](https://github.com/sosinitiative/sosinitiative) under your own GitHub organization to commit
 1. Make a start with your [contributions](contributions.md) page
 1. Share your commitment with the world! ```#sosinitiative```
 1. Update your [contributions](contributions.md) page every time you make a new accomplishment

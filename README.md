@@ -1,8 +1,9 @@
 # Sustainable Open Source Initiative
-
 We as a company building software are heavily reliant on and invested in Open Source. Our products would not be able to exist without the work of thousands of developers that do not work for us. Open source is vital to our business. We build our software on top of the work of community heroes. The open source efforts of individuals and companies allows us to focus on our core business **without having to reinvent the wheel.**
 
 We **cannot** only be consumers and expect premium support from passionate individuals. We recognize we have a **responsibility** to keep the ecosystem and the community healthy.
+
+![sos-shield](sosinitiative-logo-128.png)
 
 ## Commitment
 
@@ -31,7 +32,7 @@ We want our developers to help us make the ecosystem a better place. We will mak
 - Follow the existing style.
 - Keep pull requests small, avoid breaking changes.
 - Write tests and documentation.
-  
+
 --- 
 This initiative has been created to help companies guideline to pay back to the community and improve the culture around open source.
 

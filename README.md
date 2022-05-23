@@ -26,8 +26,8 @@ We want our developers to help us make the ecosystem a better place. We will mak
 
 - When interacting, be professional, be friendly, follow the code of conduct (if there is none specified follow the  [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)).
 - Improve the quality of forums by voting on answers that have helped you.
-- Improve the quality of forums making sure questions won't be left unanswered when you found a resolution.
-- When intending to contribute, consult the maintainer before you start, don't waste their or your time.
+- Improve the quality of forums making sure questions won't be left unanswered when you found a solution.
+- When intending to contribute, consult the maintainer before you start, don't waste their time nor your time.
 - Respect the maintainer's vision.
 - Follow the existing style.
 - Keep pull requests small, avoid breaking changes.

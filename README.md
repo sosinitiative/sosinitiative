@@ -9,12 +9,12 @@ We **cannot** only be consumers and expect premium support from passionate indiv
 
 We will stimulate all efforts creating a healthy culture towards the use and contribution of OSS by:
 
-- Having our developers adhere to the SOS Developer Guidelines.
-- Sharing our own learnings with the world. Though talks, blogs, videos and educational content.
-- Sharing our code that could help others as open source where possible, considering intellectual property of our core business and security.
-- Not forcing our agendas to a project.
-- Letting our developers contribute code and documentation to relevant projects during working hours.
-- Sponsoring projects and maintainers that are crucial for our business.
+- [x] Having our developers adhere to the SOS Developer Guidelines.
+- [x] Sharing our own learnings with the world. Through talks, blogs, videos and educational content.
+- [x] Sharing our code that could help others as open source where possible, considering intellectual property of our core business and security.
+- [x] Not forcing our agendas to a project.
+- [x] Allowing our developers contribute code and documentation to relevant projects during working hours and company machines.
+- [x] Helping out or sponsoring projects and maintainers that are crucial for our business.
 
 ## Goals
 
@@ -24,17 +24,17 @@ By committing to the sustainable open source initiative we believe we will have 
 
 We want our developers to help us make the ecosystem a better place. We will make sure that our developers will follow these guidelines.
 
-- When interacting, be professional, be friendly, follow the code of conduct (if there is none specified follow the  [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)).
-- Improve the quality of forums by voting on answers that have helped you.
-- Improve the quality of forums making sure questions won't be left unanswered when you found a resolution.
-- When intending to contribute, consult the maintainer before you start, don't waste their or your time.
-- Respect the maintainer's vision.
-- Follow the existing style.
-- Keep pull requests small, avoid breaking changes.
-- Write tests and documentation.
+- [x] When interacting, be professional, be friendly, follow the code of conduct. *(when not specified follow [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/))*
+- [x] Improve the quality of forums by voting on answers that have helped you.
+- [x] Improve the quality of forums making sure questions won't be left unanswered when you found a solution.
+- [x] When intending to contribute, consult the maintainer before you start, don't waste their time nor your time.
+- [x] Respect the maintainer's vision.
+- [x] Follow the existing style.
+- [x] Keep pull requests small, avoid breaking changes.
+- [x] Write tests and documentation.
 
 --- 
-This initiative has been created to help companies guideline to pay back to the community and improve the culture around open source.
+This initiative has been created to help companies create a guideline to improve the culture around open source and pay back to the community.
 
 ## Also want to join the initiative?
 
@@ -42,7 +42,7 @@ Do you also want to improve the way your company and people think about and use 
 
 ### What is the process?
 
-1. Fork [https://github.com/sosinitiative/sosinitiative](https://github.com/sosinitiative/sosinitiative) under your own github organization to commit
+1. Fork [https://github.com/sosinitiative/sosinitiative](https://github.com/sosinitiative/sosinitiative) under your own GitHub organization to commit
 1. Make a start with your [contributions](contributions.md) page
 1. Share your commitment with the world! ```#sosinitiative```
 1. Update your [contributions](contributions.md) page every time you make a new accomplishment

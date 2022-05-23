@@ -13,8 +13,8 @@ We will stimulate all efforts creating a healthy culture towards the use and con
 - Sharing our own learnings with the world. Through talks, blogs, videos and educational content.
 - Sharing our code that could help others as open source where possible, considering intellectual property of our core business and security.
 - Not forcing our agendas to a project.
-- Letting our developers contribute code and documentation to relevant projects during working hours.
-- Sponsoring projects and maintainers that are crucial for our business.
+- Allowing our developers contribute code and documentation to relevant projects during working hours and company machines.
+- Helping out or sponsoring projects and maintainers that are crucial for our business.
 
 ## Goals
 

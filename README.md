@@ -24,10 +24,10 @@ By committing to the sustainable open source initiative we believe we will have 
 
 We want our developers to help us make the ecosystem a better place. We will make sure that our developers will follow these guidelines.
 
-- [x] When interacting, be professional, be friendly, follow the code of conduct. *(when not specified follow [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/))*
+- [x] When interacting, be friendly, be inclusive, be professional, follow the code of conduct. *(when not specified follow [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/))*
 - [x] Improve the quality of forums by voting on answers that have helped you.
 - [x] Improve the quality of forums making sure questions won't be left unanswered when you found a solution.
-- [x] When intending to contribute, consult the maintainer before you start, don't waste their time nor your time.
+- [x] When intending to contribute to a project, consult the maintainer before you start, don't waste their time nor yourss.
 - [x] Respect the maintainer's vision.
 - [x] Follow the existing style.
 - [x] Keep pull requests small, avoid breaking changes.

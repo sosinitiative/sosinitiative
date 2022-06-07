@@ -1,4 +1,4 @@
-# Sustainable Open Source Initiative
+# Sustainable Open Source (SOS) Initiative
 We as a company building software are heavily reliant on and invested in Open Source. Our products would not be able to exist without the work of thousands of developers that do not work for us. Open source is vital to our business. We build our software on top of the work of community heroes. The open source efforts of individuals and companies allow us to focus on our core business and build great software. **We ♥️ Open Source.**
 
 We **cannot** be only consumers or even parasites and expect premium support from passionate individuals. We recognize we have a **responsibility** to keep the ecosystem and the Open Source community healthy.

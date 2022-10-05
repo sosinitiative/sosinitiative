@@ -2,7 +2,7 @@
 
 This is a resume stating what we [CompanyX] actually do to pay back to the community.
 
-- [Sponsorships](#sponsorship)
+- [Sponsorships](#sponsorships)
 - [Our contributions](#our-contributions)
 - [Our Open Source projects](#our-open-source-projects)
 - [Knowledge Sharing](#knowledge-sharing)

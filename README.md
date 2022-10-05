@@ -35,7 +35,7 @@ We want our developers to help us make the ecosystem a better place. We will mak
 - [x] Keep pull requests small, avoid breaking changes.
 - [x] Write tests and documentation.
 
---- 
+---
 This initiative has been created to help companies create a guideline to improve the culture around open source and pay back to the community.
 
 ## Also want to join the initiative?
@@ -44,7 +44,7 @@ Do you also want to improve the way your company and people think about and use 
 
 ### What is the process?
 
-1. Fork [sosinitiative](https://github.com/sosinitiative/sosinitiative) under your own GitHub organization to commit publicly and get added to the [ADOPTERS.md](ADOPTERS.md).
+1. [Fork sosinitiative](https://github.com/sosinitiative/sosinitiative/fork) under your own GitHub organization to commit publicly and get added to the [ADOPTERS.md](ADOPTERS.md).
 1. Make a start with your [contributions](contributions.md) page
 1. Share your commitment with the world! ```#sosinitiative```
 1. Update your [contributions](contributions.md) page every time you make a new accomplishment

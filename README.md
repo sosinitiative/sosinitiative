@@ -10,11 +10,11 @@ We **cannot** be only consumers and expect premium support from passionate indiv
 
 We will stimulate all efforts inside our company around creating a healthy culture towards the use and contribution of OSS by:
 
-- [x] Having our developers adhere to the SOS Developer Guidelines.
+- [x] Having our developers adhere to the [SOS Developer Guidelines](#sos-developer-guidelines).
 - [x] Sharing our own learnings with the world. Through talks, blogs, videos and educational content.
 - [x] Sharing our code that could help others as Open Source where possible, considering intellectual property of our core business and security.
-- [x] Allowing our developers contribute code and documentation to relevant projects during working hours and on company hardware.
-- [x] Not forcing our agendas to a project.
+- [x] Allowing our developers to contribute code and documentation to relevant projects during working hours and on company hardware.
+- [x] Not forcing our agendas to an open source project.
 - [x] Helping out or sponsoring projects and maintainers that are crucial for our business.
 - [x] Letting maintainers know that our company is using their project to raise momentum and credibility. For instance by filling in an adopter form or editing the ADOPTERS.md.
 

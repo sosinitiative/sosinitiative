@@ -29,11 +29,13 @@ We want our developers to help us make the ecosystem a better place. We will mak
 - [x] When interacting, be friendly, be inclusive, be professional, follow the code of conduct (CODE_OF_CONDUCT.md). *(when not specified follow [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct/))*
 - [x] Improve the quality of forums by voting on answers that have helped you.
 - [x] Improve the quality of forums making sure questions won't be left unanswered when you found a solution.
-- [x] When intending to contribute to a project, read the CONTRIBUTING.md and consult the maintainer before you start, don't waste their time nor yours.
+- [x] When intending to contribute to a project, read the CONTRIBUTING.md and consult the maintainer (for instance by creating an issue) before you start, don't waste their time nor yours.
 - [x] Respect the maintainer's vision.
 - [x] Follow the existing style.
 - [x] Keep pull requests small, avoid breaking changes.
 - [x] Write tests and documentation.
+- [x] No "spray and pray", follow up on your contributions.
+- [x] If you committed to a chunk of work, and timelines change, communicate as soon as you can.  
 
 ---
 This initiative has been created to help companies create a guideline to improve the culture around open source and pay back to the community.

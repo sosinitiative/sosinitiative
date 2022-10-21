@@ -5,4 +5,5 @@ _If you're sharing our view within your organization, please fork this repo to s
 | Company | Contact| Note |
 | - | - | - |
 | [betabit](https://betabit.nl) | [@oscarvantol](https://github.com/oscarvantol) | Promoting this internally to our consultants and introducing this to our customers |
+| [blue10](https://blue10.com) | [@ydinkov](https://github.com/ydinkov) | Advocating the publishing of our product source-code to the public |
 | | | |
